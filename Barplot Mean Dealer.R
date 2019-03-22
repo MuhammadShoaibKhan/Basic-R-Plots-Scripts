@@ -1,0 +1,1 @@
+barplot(MeanDealerPerCustomer,main="Drugs Model",ylab ="Mean Dealer", xlab = "Run" )
